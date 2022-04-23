@@ -1,5 +1,5 @@
 #nome da calculadora
-print('BEM-VINDO A CALCULADORA DO ARGO')
+print('BEM-VINDO A CALCULADORA DO ARTHUR')
 
 #dados
 n = input('Digite seu nome: ')
